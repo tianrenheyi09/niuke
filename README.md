@@ -1,2 +1,2 @@
 # niuke
-"test_v1_ceshi"
+"test_v1"
